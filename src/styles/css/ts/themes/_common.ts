@@ -5,11 +5,12 @@ const common = {
         gray: '#919191',
         green: '#5EC278',
         yellow: '#FFD410',
-        primary: '#518DE0',
-        secondary: '#E94560'
+        primary: '#FF9E01',
+        secondary: '#E94560',
+        gradientPrimary: 'linear-gradient(0deg, #ff8100 0%, #FF9E01  100%);'
     },
     spacing: {
-        headerHeight: '5rem'
+        headerHeight: '6.25rem'
     }
 }
 
